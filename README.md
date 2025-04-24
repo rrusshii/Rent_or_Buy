@@ -39,7 +39,6 @@ This isn’t just a calculator. It’s a compact, deployable data product that i
 - 🛠️ Pythonic deployment
 - 📊 Clear data storytelling
 
-Perfect for anyone building a data science portfolio with real-world impact.
 
 ---
 ## Try it out!
