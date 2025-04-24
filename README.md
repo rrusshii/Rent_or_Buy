@@ -42,6 +42,8 @@ This isn’t just a calculator. It’s a compact, deployable data product that i
 Perfect for anyone building a data science portfolio with real-world impact.
 
 ---
+## Try it out!
+https://rushirentorbuy.streamlit.app/
 
 ## 🚀 How to Run
 
