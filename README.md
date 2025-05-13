@@ -6,6 +6,11 @@ Built with beginners in mind, this app combines core data science skills with an
 
 ---
 
+---
+## Try it out!
+https://rushirentorbuy.streamlit.app/
+
+
 ## 🎯 Features
 
 - **Country Toggle** – Choose India or the UK to auto-fill financial assumptions like interest rate, loan tenure, and property tax.
@@ -38,11 +43,6 @@ This isn’t just a calculator. It’s a compact, deployable data product that i
 - 🧠 Basic ML integration
 - 🛠️ Pythonic deployment
 - 📊 Clear data storytelling
-
-
----
-## Try it out!
-https://rushirentorbuy.streamlit.app/
 
 ## 🚀 How to Run
 
