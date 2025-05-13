@@ -5,11 +5,10 @@ This project helps users make informed, data-driven decisions about whether to r
 Built with beginners in mind, this app combines core data science skills with an intuitive user interface using **Streamlit**.
 
 ---
-
----
 ## Try it out!
 https://rushirentorbuy.streamlit.app/
 
+---
 
 ## 🎯 Features
 
